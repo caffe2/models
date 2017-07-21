@@ -1,0 +1,1474 @@
+File1 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([794.0, 0.05948574095964432], dtype=object), array([111.0, 0.04043354466557503], dtype=object), array([79.0, 0.02955291047692299], dtype=object), array([700.0, 0.028931874781847], dtype=object), array([549.0, 0.025552093982696533], dtype=object)]
+squeezenet 3rd infers that the image contains  centipede with a  2.95529104769 % probability
+squeezenet 2nd infers that the image contains  nematode, nematode worm, roundworm with a  4.04335446656 % probability
+squeezenet 5th infers that the image contains  envelope with a  2.55520939827 % probability
+squeezenet 4th infers that the image contains  paper towel with a  2.89318747818 % probability
+squeezenet 1st infers that the image contains  shower curtain with a  5.94857409596 % probability
+File2 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([628.0, 0.12878499925136566], dtype=object), array([517.0, 0.09760041534900665], dtype=object), array([914.0, 0.07976745814085007], dtype=object), array([780.0, 0.06808949261903763], dtype=object), array([874.0, 0.041996996849775314], dtype=object)]
+squeezenet 2nd infers that the image contains  crane with a  9.7600415349 % probability
+squeezenet 1st infers that the image contains  liner, ocean liner with a  12.8784999251 % probability
+squeezenet 4th infers that the image contains  schooner with a  6.8089492619 % probability
+squeezenet 5th infers that the image contains  trolleybus, trolley coach, trackless trolley with a  4.19969968498 % probability
+squeezenet 3rd infers that the image contains  yawl with a  7.97674581409 % probability
+File3 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([699.0, 0.0288655124604702], dtype=object), array([892.0, 0.02764943614602089], dtype=object), array([442.0, 0.025386104360222816], dtype=object), array([879.0, 0.023378591984510422], dtype=object), array([845.0, 0.020577240735292435], dtype=object)]
+squeezenet 3rd infers that the image contains  bell cote, bell cot with a  2.53861043602 % probability
+squeezenet 1st infers that the image contains  panpipe, pandean pipe, syrinx with a  2.88655124605 % probability
+squeezenet 5th infers that the image contains  syringe with a  2.05772407353 % probability
+squeezenet 4th infers that the image contains  umbrella with a  2.33785919845 % probability
+squeezenet 2nd infers that the image contains  wall clock with a  2.7649436146 % probability
+File4 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([628.0, 0.1446208357810974], dtype=object), array([798.0, 0.12381996214389801], dtype=object), array([845.0, 0.04008055478334427], dtype=object), array([519.0, 0.030629942193627357], dtype=object), array([769.0, 0.025095408782362938], dtype=object)]
+squeezenet 4th infers that the image contains  crate with a  3.06299421936 % probability
+squeezenet 1st infers that the image contains  liner, ocean liner with a  14.4620835781 % probability
+squeezenet 5th infers that the image contains  rule, ruler with a  2.50954087824 % probability
+squeezenet 2nd infers that the image contains  slide rule, slipstick with a  12.3819962144 % probability
+squeezenet 3rd infers that the image contains  syringe with a  4.00805547833 % probability
+File5 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([660.0, 0.12200705707073212], dtype=object), array([628.0, 0.0869564339518547], dtype=object), array([874.0, 0.05938747897744179], dtype=object), array([713.0, 0.046107709407806396], dtype=object), array([675.0, 0.03125327453017235], dtype=object)]
+squeezenet 2nd infers that the image contains  liner, ocean liner with a  8.69564339519 % probability
+squeezenet 1st infers that the image contains  mobile home, manufactured home with a  12.2007057071 % probability
+squeezenet 5th infers that the image contains  moving van with a  3.12532745302 % probability
+squeezenet 4th infers that the image contains  photocopier with a  4.61077094078 % probability
+squeezenet 3rd infers that the image contains  trolleybus, trolley coach, trackless trolley with a  5.93874789774 % probability
+File6 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([757.0, 0.22368738055229187], dtype=object), array([675.0, 0.13459895551204681], dtype=object), array([742.0, 0.11699491739273071], dtype=object), array([713.0, 0.08284709602594376], dtype=object), array([442.0, 0.028560832142829895], dtype=object)]
+squeezenet 5th infers that the image contains  bell cote, bell cot with a  2.85608321428 % probability
+squeezenet 2nd infers that the image contains  moving van with a  13.4598955512 % probability
+squeezenet 4th infers that the image contains  photocopier with a  8.28470960259 % probability
+squeezenet 3rd infers that the image contains  printer with a  11.6994917393 % probability
+squeezenet 1st infers that the image contains  recreational vehicle, RV, R.V. with a  22.3687380552 % probability
+File7 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([769.0, 0.04793982952833176], dtype=object), array([662.0, 0.04027782380580902], dtype=object), array([760.0, 0.02972918003797531], dtype=object), array([421.0, 0.028326071798801422], dtype=object), array([583.0, 0.02574252523481846], dtype=object)]
+squeezenet 4th infers that the image contains  bannister, banister, balustrade, balusters, handrail with a  2.83260717988 % probability
+squeezenet 5th infers that the image contains  guillotine with a  2.57425252348 % probability
+squeezenet 2nd infers that the image contains  modem with a  4.02778238058 % probability
+squeezenet 3rd infers that the image contains  refrigerator, icebox with a  2.9729180038 % probability
+squeezenet 1st infers that the image contains  rule, ruler with a  4.79398295283 % probability
+File8 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([908.0, 0.05331835895776749], dtype=object), array([549.0, 0.05104566738009453], dtype=object), array([794.0, 0.03621244058012962], dtype=object), array([905.0, 0.02616375871002674], dtype=object), array([446.0, 0.020174700766801834], dtype=object)]
+squeezenet 5th infers that the image contains  binder, ring-binder with a  2.01747007668 % probability
+squeezenet 2nd infers that the image contains  envelope with a  5.10456673801 % probability
+squeezenet 3rd infers that the image contains  shower curtain with a  3.62124405801 % probability
+squeezenet 4th infers that the image contains  window shade with a  2.616375871 % probability
+squeezenet 1st infers that the image contains  wing with a  5.33183589578 % probability
+File9 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([892.0, 0.08998988568782806], dtype=object), array([769.0, 0.07317088544368744], dtype=object), array([549.0, 0.04087795317173004], dtype=object), array([600.0, 0.03086371347308159], dtype=object), array([635.0, 0.01606479100883007], dtype=object)]
+squeezenet 3rd infers that the image contains  envelope with a  4.08779531717 % probability
+squeezenet 4th infers that the image contains  hook, claw with a  3.08637134731 % probability
+squeezenet 5th infers that the image contains  magnetic compass with a  1.60647910088 % probability
+squeezenet 2nd infers that the image contains  rule, ruler with a  7.31708854437 % probability
+squeezenet 1st infers that the image contains  wall clock with a  8.99898856878 % probability
+File10 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([733.0, 0.07256287336349487], dtype=object), array([517.0, 0.04661915451288223], dtype=object), array([845.0, 0.03712431341409683], dtype=object), array([600.0, 0.034324850887060165], dtype=object), array([557.0, 0.030509626492857933], dtype=object)]
+squeezenet 2nd infers that the image contains  crane with a  4.66191545129 % probability
+squeezenet 5th infers that the image contains  flagpole, flagstaff with a  3.05096264929 % probability
+squeezenet 4th infers that the image contains  hook, claw with a  3.43248508871 % probability
+squeezenet 1st infers that the image contains  pole with a  7.25628733635 % probability
+squeezenet 3rd infers that the image contains  syringe with a  3.71243134141 % probability
+File11 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([829.0, 0.04276970028877258], dtype=object), array([905.0, 0.03371068090200424], dtype=object), array([517.0, 0.028569938614964485], dtype=object), array([807.0, 0.025140395388007164], dtype=object), array([438.0, 0.02384798228740692], dtype=object)]
+squeezenet 5th infers that the image contains  beaker with a  2.38479822874 % probability
+squeezenet 3rd infers that the image contains  crane with a  2.8569938615 % probability
+squeezenet 4th infers that the image contains  solar dish, solar collector, solar furnace with a  2.5140395388 % probability
+squeezenet 1st infers that the image contains  streetcar, tram, tramcar, trolley, trolley car with a  4.27697002888 % probability
+squeezenet 2nd infers that the image contains  window shade with a  3.3710680902 % probability
+File12 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([845.0, 0.13012458384037018], dtype=object), array([829.0, 0.02525591291487217], dtype=object), array([628.0, 0.024195251986384392], dtype=object), array([769.0, 0.023665014654397964], dtype=object), array([691.0, 0.023206982761621475], dtype=object)]
+squeezenet 3rd infers that the image contains  liner, ocean liner with a  2.41952519864 % probability
+squeezenet 5th infers that the image contains  oxygen mask with a  2.32069827616 % probability
+squeezenet 4th infers that the image contains  rule, ruler with a  2.36650146544 % probability
+squeezenet 2nd infers that the image contains  streetcar, tram, tramcar, trolley, trolley car with a  2.52559129149 % probability
+squeezenet 1st infers that the image contains  syringe with a  13.012458384 % probability
+File13 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([882.0, 0.15874654054641724], dtype=object), array([704.0, 0.07299134135246277], dtype=object), array([691.0, 0.06820965558290482], dtype=object), array([665.0, 0.028222346678376198], dtype=object), array([561.0, 0.025935379788279533], dtype=object)]
+squeezenet 5th infers that the image contains  forklift with a  2.59353797883 % probability
+squeezenet 4th infers that the image contains  moped with a  2.82223466784 % probability
+squeezenet 3rd infers that the image contains  oxygen mask with a  6.82096555829 % probability
+squeezenet 2nd infers that the image contains  parking meter with a  7.29913413525 % probability
+squeezenet 1st infers that the image contains  vacuum, vacuum cleaner with a  15.8746540546 % probability
+File14 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([713.0, 0.07549940794706345], dtype=object), array([550.0, 0.07234635204076767], dtype=object), array([742.0, 0.06305865943431854], dtype=object), array([778.0, 0.03948906809091568], dtype=object), array([861.0, 0.03668919578194618], dtype=object)]
+squeezenet 2nd infers that the image contains  espresso maker with a  7.23463520408 % probability
+squeezenet 1st infers that the image contains  photocopier with a  7.54994079471 % probability
+squeezenet 3rd infers that the image contains  printer with a  6.30586594343 % probability
+squeezenet 4th infers that the image contains  scale, weighing machine with a  3.94890680909 % probability
+squeezenet 5th infers that the image contains  toilet seat with a  3.66891957819 % probability
+File15 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([549.0, 0.08334299176931381], dtype=object), array([769.0, 0.04665163904428482], dtype=object), array([681.0, 0.02783147431910038], dtype=object), array([892.0, 0.027703752741217613], dtype=object), array([798.0, 0.02612149901688099], dtype=object)]
+squeezenet 1st infers that the image contains  envelope with a  8.33429917693 % probability
+squeezenet 3rd infers that the image contains  notebook, notebook computer with a  2.78314743191 % probability
+squeezenet 2nd infers that the image contains  rule, ruler with a  4.66516390443 % probability
+squeezenet 5th infers that the image contains  slide rule, slipstick with a  2.61214990169 % probability
+squeezenet 4th infers that the image contains  wall clock with a  2.77037527412 % probability
+File16 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([612.0, 0.12237810343503952], dtype=object), array([870.0, 0.10319864749908447], dtype=object), array([647.0, 0.06910354644060135], dtype=object), array([532.0, 0.0459744930267334], dtype=object), array([665.0, 0.04134353622794151], dtype=object)]
+squeezenet 4th infers that the image contains  dining table, board with a  4.59744930267 % probability
+squeezenet 1st infers that the image contains  jinrikisha, ricksha, rickshaw with a  12.2378103435 % probability
+squeezenet 3rd infers that the image contains  measuring cup with a  6.91035464406 % probability
+squeezenet 5th infers that the image contains  moped with a  4.13435362279 % probability
+squeezenet 2nd infers that the image contains  tricycle, trike, velocipede with a  10.3198647499 % probability
+File17 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([549.0, 0.07263807207345963], dtype=object), array([681.0, 0.03311365470290184], dtype=object), array([499.0, 0.02606123499572277], dtype=object), array([769.0, 0.023770328611135483], dtype=object), array([892.0, 0.02175052836537361], dtype=object)]
+squeezenet 3rd infers that the image contains  cleaver, meat cleaver, chopper with a  2.60612349957 % probability
+squeezenet 1st infers that the image contains  envelope with a  7.26380720735 % probability
+squeezenet 2nd infers that the image contains  notebook, notebook computer with a  3.31136547029 % probability
+squeezenet 4th infers that the image contains  rule, ruler with a  2.37703286111 % probability
+squeezenet 5th infers that the image contains  wall clock with a  2.17505283654 % probability
+File18 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([769.0, 0.16223900020122528], dtype=object), array([798.0, 0.11152607947587967], dtype=object), array([892.0, 0.03172629699110985], dtype=object), array([553.0, 0.030389875173568726], dtype=object), array([438.0, 0.028267918154597282], dtype=object)]
+squeezenet 5th infers that the image contains  beaker with a  2.82679181546 % probability
+squeezenet 4th infers that the image contains  file, file cabinet, filing cabinet with a  3.03898751736 % probability
+squeezenet 1st infers that the image contains  rule, ruler with a  16.2239000201 % probability
+squeezenet 2nd infers that the image contains  slide rule, slipstick with a  11.1526079476 % probability
+squeezenet 3rd infers that the image contains  wall clock with a  3.17262969911 % probability
+File19 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([807.0, 0.09744047373533249], dtype=object), array([742.0, 0.04955795407295227], dtype=object), array([755.0, 0.04496263340115547], dtype=object), array([914.0, 0.03868325427174568], dtype=object), array([549.0, 0.03533612936735153], dtype=object)]
+squeezenet 5th infers that the image contains  envelope with a  3.53361293674 % probability
+squeezenet 2nd infers that the image contains  printer with a  4.9557954073 % probability
+squeezenet 3rd infers that the image contains  radio telescope, radio reflector with a  4.49626334012 % probability
+squeezenet 1st infers that the image contains  solar dish, solar collector, solar furnace with a  9.74404737353 % probability
+squeezenet 4th infers that the image contains  yawl with a  3.86832542717 % probability
+File20 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([517.0, 0.06458649784326553], dtype=object), array([600.0, 0.03738600015640259], dtype=object), array([845.0, 0.03486118093132973], dtype=object), array([892.0, 0.026624558493494987], dtype=object), array([494.0, 0.021487263962626457], dtype=object)]
+squeezenet 5th infers that the image contains  chime, bell, gong with a  2.14872639626 % probability
+squeezenet 1st infers that the image contains  crane with a  6.45864978433 % probability
+squeezenet 2nd infers that the image contains  hook, claw with a  3.73860001564 % probability
+squeezenet 3rd infers that the image contains  syringe with a  3.48611809313 % probability
+squeezenet 4th infers that the image contains  wall clock with a  2.66245584935 % probability
+File21 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([794.0, 0.053948406130075455], dtype=object), array([409.0, 0.03358170762658119], dtype=object), array([905.0, 0.02489708922803402], dtype=object), array([892.0, 0.022399507462978363], dtype=object), array([733.0, 0.018514089286327362], dtype=object)]
+squeezenet 2nd infers that the image contains  analog clock with a  3.35817076266 % probability
+squeezenet 5th infers that the image contains  pole with a  1.85140892863 % probability
+squeezenet 1st infers that the image contains  shower curtain with a  5.39484061301 % probability
+squeezenet 4th infers that the image contains  wall clock with a  2.2399507463 % probability
+squeezenet 3rd infers that the image contains  window shade with a  2.4897089228 % probability
+File22 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([807.0, 0.18173708021640778], dtype=object), array([438.0, 0.06012723222374916], dtype=object), array([628.0, 0.042324647307395935], dtype=object), array([914.0, 0.04148373380303383], dtype=object), array([660.0, 0.03317730501294136], dtype=object)]
+squeezenet 2nd infers that the image contains  beaker with a  6.01272322237 % probability
+squeezenet 3rd infers that the image contains  liner, ocean liner with a  4.23246473074 % probability
+squeezenet 5th infers that the image contains  mobile home, manufactured home with a  3.31773050129 % probability
+squeezenet 1st infers that the image contains  solar dish, solar collector, solar furnace with a  18.1737080216 % probability
+squeezenet 4th infers that the image contains  yawl with a  4.1483733803 % probability
+File23 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([742.0, 0.534220814704895], dtype=object), array([662.0, 0.06531102955341339], dtype=object), array([606.0, 0.03897694870829582], dtype=object), array([778.0, 0.022275807335972786], dtype=object), array([482.0, 0.021214228123426437], dtype=object)]
+squeezenet 5th infers that the image contains  cassette player with a  2.12142281234 % probability
+squeezenet 3rd infers that the image contains  iron, smoothing iron with a  3.89769487083 % probability
+squeezenet 2nd infers that the image contains  modem with a  6.53110295534 % probability
+squeezenet 1st infers that the image contains  printer with a  53.4220814705 % probability
+squeezenet 4th infers that the image contains  scale, weighing machine with a  2.2275807336 % probability
+File24 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([583.0, 0.035172175616025925], dtype=object), array([702.0, 0.03381236642599106], dtype=object), array([743.0, 0.029547804966568947], dtype=object), array([843.0, 0.01958603225648403], dtype=object), array([545.0, 0.01945510320365429], dtype=object)]
+squeezenet 5th infers that the image contains  electric fan, blower with a  1.94551032037 % probability
+squeezenet 1st infers that the image contains  guillotine with a  3.5172175616 % probability
+squeezenet 2nd infers that the image contains  parallel bars, bars with a  3.3812366426 % probability
+squeezenet 3rd infers that the image contains  prison, prison house with a  2.95478049666 % probability
+squeezenet 4th infers that the image contains  swing with a  1.95860322565 % probability
+File25 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([815.0, 0.08517633378505707], dtype=object), array([975.0, 0.03845607116818428], dtype=object), array([904.0, 0.028039943426847458], dtype=object), array([716.0, 0.02285468578338623], dtype=object), array([971.0, 0.019727511331439018], dtype=object)]
+squeezenet 4th infers that the image contains  picket fence, paling with a  2.28546857834 % probability
+squeezenet 1st infers that the image contains  spider web, spider's web with a  8.51763337851 % probability
+squeezenet 3rd infers that the image contains  window screen with a  2.80399434268 % probability
+squeezenet 5th infers that the image contains  bubble with a  1.97275113314 % probability
+squeezenet 2nd infers that the image contains  lakeside, lakeshore with a  3.84560711682 % probability
+File26 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([517.0, 0.07587878406047821], dtype=object), array([919.0, 0.07205013185739517], dtype=object), array([687.0, 0.050096407532691956], dtype=object), array([743.0, 0.04105661064386368], dtype=object), array([438.0, 0.028621213510632515], dtype=object)]
+squeezenet 5th infers that the image contains  beaker with a  2.86212135106 % probability
+squeezenet 1st infers that the image contains  crane with a  7.58787840605 % probability
+squeezenet 3rd infers that the image contains  organ, pipe organ with a  5.00964075327 % probability
+squeezenet 4th infers that the image contains  prison, prison house with a  4.10566106439 % probability
+squeezenet 2nd infers that the image contains  street sign with a  7.20501318574 % probability
+File27 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([422.0, 0.05435170233249664], dtype=object), array([971.0, 0.027225619181990623], dtype=object), array([399.0, 0.027090679854154587], dtype=object), array([668.0, 0.017682256177067757], dtype=object), array([424.0, 0.015598583966493607], dtype=object)]
+squeezenet 3rd infers that the image contains  abaya with a  2.70906798542 % probability
+squeezenet 1st infers that the image contains  barbell with a  5.43517023325 % probability
+squeezenet 5th infers that the image contains  barbershop with a  1.55985839665 % probability
+squeezenet 4th infers that the image contains  mosque with a  1.76822561771 % probability
+squeezenet 2nd infers that the image contains  bubble with a  2.7225619182 % probability
+File28 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([517.0, 0.05814308673143387], dtype=object), array([628.0, 0.051415134221315384], dtype=object), array([716.0, 0.04131995514035225], dtype=object), array([438.0, 0.039618391543626785], dtype=object), array([743.0, 0.03501128777861595], dtype=object)]
+squeezenet 4th infers that the image contains  beaker with a  3.96183915436 % probability
+squeezenet 1st infers that the image contains  crane with a  5.81430867314 % probability
+squeezenet 2nd infers that the image contains  liner, ocean liner with a  5.14151342213 % probability
+squeezenet 3rd infers that the image contains  picket fence, paling with a  4.13199551404 % probability
+squeezenet 5th infers that the image contains  prison, prison house with a  3.50112877786 % probability
+File29 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([478.0, 0.09014338254928589], dtype=object), array([583.0, 0.029849935322999954], dtype=object), array([731.0, 0.020244471728801727], dtype=object), array([626.0, 0.020026808604598045], dtype=object), array([596.0, 0.018992818892002106], dtype=object)]
+squeezenet 1st infers that the image contains  carton with a  9.01433825493 % probability
+squeezenet 2nd infers that the image contains  guillotine with a  2.9849935323 % probability
+squeezenet 5th infers that the image contains  hatchet with a  1.8992818892 % probability
+squeezenet 4th infers that the image contains  lighter, light, igniter, ignitor with a  2.00268086046 % probability
+squeezenet 3rd infers that the image contains  plunger, plumber's helper with a  2.02444717288 % probability
+File30 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([870.0, 0.18380916118621826], dtype=object), array([665.0, 0.0982743576169014], dtype=object), array([438.0, 0.09426882117986679], dtype=object), array([540.0, 0.03979494795203209], dtype=object), array([765.0, 0.031188294291496277], dtype=object)]
+squeezenet 3rd infers that the image contains  beaker with a  9.42688211799 % probability
+squeezenet 4th infers that the image contains  drilling platform, offshore rig with a  3.9794947952 % probability
+squeezenet 2nd infers that the image contains  moped with a  9.82743576169 % probability
+squeezenet 5th infers that the image contains  rocking chair, rocker with a  3.11882942915 % probability
+squeezenet 1st infers that the image contains  tricycle, trike, velocipede with a  18.3809161186 % probability
+File31 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([569.0, 0.10828407853841782], dtype=object), array([438.0, 0.06689224392175674], dtype=object), array([675.0, 0.05807986482977867], dtype=object), array([829.0, 0.05627167597413063], dtype=object), array([867.0, 0.04676846042275429], dtype=object)]
+squeezenet 2nd infers that the image contains  beaker with a  6.68922439218 % probability
+squeezenet 1st infers that the image contains  garbage truck, dustcart with a  10.8284078538 % probability
+squeezenet 3rd infers that the image contains  moving van with a  5.80798648298 % probability
+squeezenet 4th infers that the image contains  streetcar, tram, tramcar, trolley, trolley car with a  5.62716759741 % probability
+squeezenet 5th infers that the image contains  trailer truck, tractor trailer, trucking rig, rig, articulated lorry, semi with a  4.67684604228 % probability
+File32 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([713.0, 0.26601043343544006], dtype=object), array([742.0, 0.12253966927528381], dtype=object), array([617.0, 0.053230807185173035], dtype=object), array([480.0, 0.03326977789402008], dtype=object), array([798.0, 0.02904336340725422], dtype=object)]
+squeezenet 4th infers that the image contains  cash machine, cash dispenser, automated teller machine, automatic teller machine, automated teller, automatic teller, ATM with a  3.3269777894 % probability
+squeezenet 3rd infers that the image contains  lab coat, laboratory coat with a  5.32308071852 % probability
+squeezenet 1st infers that the image contains  photocopier with a  26.6010433435 % probability
+squeezenet 2nd infers that the image contains  printer with a  12.2539669275 % probability
+squeezenet 5th infers that the image contains  slide rule, slipstick with a  2.90433634073 % probability
+File33 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([729.0, 0.06204177439212799], dtype=object), array([830.0, 0.047519750893116], dtype=object), array([807.0, 0.038356732577085495], dtype=object), array([713.0, 0.03782878443598747], dtype=object), array([534.0, 0.021319499239325523], dtype=object)]
+squeezenet 5th infers that the image contains  dishwasher, dish washer, dishwashing machine with a  2.13194992393 % probability
+squeezenet 4th infers that the image contains  photocopier with a  3.7828784436 % probability
+squeezenet 1st infers that the image contains  plate rack with a  6.20417743921 % probability
+squeezenet 3rd infers that the image contains  solar dish, solar collector, solar furnace with a  3.83567325771 % probability
+squeezenet 2nd infers that the image contains  stretcher with a  4.75197508931 % probability
+File34 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([534.0, 0.1776929497718811], dtype=object), array([565.0, 0.05445481464266777], dtype=object), array([545.0, 0.04597175866365433], dtype=object), array([674.0, 0.03168213367462158], dtype=object), array([729.0, 0.026066979393363], dtype=object)]
+squeezenet 1st infers that the image contains  dishwasher, dish washer, dishwashing machine with a  17.7692949772 % probability
+squeezenet 3rd infers that the image contains  electric fan, blower with a  4.59717586637 % probability
+squeezenet 2nd infers that the image contains  freight car with a  5.44548146427 % probability
+squeezenet 4th infers that the image contains  mousetrap with a  3.16821336746 % probability
+squeezenet 5th infers that the image contains  plate rack with a  2.60669793934 % probability
+File35 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([729.0, 0.07239528745412827], dtype=object), array([807.0, 0.06699442863464355], dtype=object), array([660.0, 0.04301884025335312], dtype=object), array([405.0, 0.030691536143422127], dtype=object), array([905.0, 0.02468150667846203], dtype=object)]
+squeezenet 4th infers that the image contains  airship, dirigible with a  3.06915361434 % probability
+squeezenet 3rd infers that the image contains  mobile home, manufactured home with a  4.30188402534 % probability
+squeezenet 1st infers that the image contains  plate rack with a  7.23952874541 % probability
+squeezenet 2nd infers that the image contains  solar dish, solar collector, solar furnace with a  6.69944286346 % probability
+squeezenet 5th infers that the image contains  window shade with a  2.46815066785 % probability
+File36 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([628.0, 0.08015166223049164], dtype=object), array([798.0, 0.07217905670404434], dtype=object), array([780.0, 0.05984458699822426], dtype=object), array([845.0, 0.044007450342178345], dtype=object), array([807.0, 0.043674975633621216], dtype=object)]
+squeezenet 1st infers that the image contains  liner, ocean liner with a  8.01516622305 % probability
+squeezenet 3rd infers that the image contains  schooner with a  5.98445869982 % probability
+squeezenet 2nd infers that the image contains  slide rule, slipstick with a  7.2179056704 % probability
+squeezenet 5th infers that the image contains  solar dish, solar collector, solar furnace with a  4.36749756336 % probability
+squeezenet 4th infers that the image contains  syringe with a  4.40074503422 % probability
+File37 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([755.0, 0.04140159860253334], dtype=object), array([807.0, 0.029385244473814964], dtype=object), array([978.0, 0.024729687720537186], dtype=object), array([812.0, 0.017738215625286102], dtype=object), array([525.0, 0.01454071793705225], dtype=object)]
+squeezenet 5th infers that the image contains  dam, dike, dyke with a  1.45407179371 % probability
+squeezenet 1st infers that the image contains  radio telescope, radio reflector with a  4.14015986025 % probability
+squeezenet 2nd infers that the image contains  solar dish, solar collector, solar furnace with a  2.93852444738 % probability
+squeezenet 4th infers that the image contains  space shuttle with a  1.77382156253 % probability
+squeezenet 3rd infers that the image contains  seashore, coast, seacoast, sea-coast with a  2.47296877205 % probability
+File38 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([733.0, 0.05944053828716278], dtype=object), array([974.0, 0.050031330436468124], dtype=object), array([663.0, 0.027711518108844757], dtype=object), array([741.0, 0.023075275123119354], dtype=object), array([904.0, 0.0201267097145319], dtype=object)]
+squeezenet 3rd infers that the image contains  monastery with a  2.77115181088 % probability
+squeezenet 1st infers that the image contains  pole with a  5.94405382872 % probability
+squeezenet 4th infers that the image contains  prayer rug, prayer mat with a  2.30752751231 % probability
+squeezenet 5th infers that the image contains  window screen with a  2.01267097145 % probability
+squeezenet 2nd infers that the image contains  geyser with a  5.00313304365 % probability
+File39 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([884.0, 0.05542910099029541], dtype=object), array([677.0, 0.03292510658502579], dtype=object), array([970.0, 0.03073110431432724], dtype=object), array([733.0, 0.026371704414486885], dtype=object), array([716.0, 0.025974983349442482], dtype=object)]
+squeezenet 2nd infers that the image contains  nail with a  3.2925106585 % probability
+squeezenet 5th infers that the image contains  picket fence, paling with a  2.59749833494 % probability
+squeezenet 4th infers that the image contains  pole with a  2.63717044145 % probability
+squeezenet 1st infers that the image contains  vault with a  5.54291009903 % probability
+squeezenet 3rd infers that the image contains  alp with a  3.07311043143 % probability
+File40 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([549.0, 0.05697197839617729], dtype=object), array([716.0, 0.025484682992100716], dtype=object), array([769.0, 0.01941586658358574], dtype=object), array([971.0, 0.011567420326173306], dtype=object), array([677.0, 0.011004841886460781], dtype=object)]
+squeezenet 1st infers that the image contains  envelope with a  5.69719783962 % probability
+squeezenet 5th infers that the image contains  nail with a  1.10048418865 % probability
+squeezenet 2nd infers that the image contains  picket fence, paling with a  2.54846829921 % probability
+squeezenet 3rd infers that the image contains  rule, ruler with a  1.94158665836 % probability
+squeezenet 4th infers that the image contains  bubble with a  1.15674203262 % probability
+File41 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([549.0, 0.040995288640260696], dtype=object), array([769.0, 0.026212649419903755], dtype=object), array([681.0, 0.020976459607481956], dtype=object), array([892.0, 0.01772157847881317], dtype=object), array([696.0, 0.012028357945382595], dtype=object)]
+squeezenet 1st infers that the image contains  envelope with a  4.09952886403 % probability
+squeezenet 3rd infers that the image contains  notebook, notebook computer with a  2.09764596075 % probability
+squeezenet 5th infers that the image contains  paintbrush with a  1.20283579454 % probability
+squeezenet 2nd infers that the image contains  rule, ruler with a  2.62126494199 % probability
+squeezenet 4th infers that the image contains  wall clock with a  1.77215784788 % probability
+File42 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([549.0, 0.14085988700389862], dtype=object), array([794.0, 0.027703026309609413], dtype=object), array([769.0, 0.02652744948863983], dtype=object), array([499.0, 0.02445361763238907], dtype=object), array([892.0, 0.019582007080316544], dtype=object)]
+squeezenet 4th infers that the image contains  cleaver, meat cleaver, chopper with a  2.44536176324 % probability
+squeezenet 1st infers that the image contains  envelope with a  14.0859887004 % probability
+squeezenet 3rd infers that the image contains  rule, ruler with a  2.65274494886 % probability
+squeezenet 2nd infers that the image contains  shower curtain with a  2.77030263096 % probability
+squeezenet 5th infers that the image contains  wall clock with a  1.95820070803 % probability
+File43 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([549.0, 0.028519276529550552], dtype=object), array([769.0, 0.025219086557626724], dtype=object), array([892.0, 0.015363135375082493], dtype=object), array([681.0, 0.014791457913815975], dtype=object), array([78.0, 0.014408305287361145], dtype=object)]
+squeezenet 5th infers that the image contains  tick with a  1.44083052874 % probability
+squeezenet 1st infers that the image contains  envelope with a  2.85192765296 % probability
+squeezenet 4th infers that the image contains  notebook, notebook computer with a  1.47914579138 % probability
+squeezenet 2nd infers that the image contains  rule, ruler with a  2.52190865576 % probability
+squeezenet 3rd infers that the image contains  wall clock with a  1.53631353751 % probability
+File44 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([845.0, 0.09701124578714371], dtype=object), array([600.0, 0.04326971247792244], dtype=object), array([769.0, 0.030862921848893166], dtype=object), array([409.0, 0.027216466143727303], dtype=object), array([784.0, 0.02716670371592045], dtype=object)]
+squeezenet 4th infers that the image contains  analog clock with a  2.72164661437 % probability
+squeezenet 2nd infers that the image contains  hook, claw with a  4.32697124779 % probability
+squeezenet 3rd infers that the image contains  rule, ruler with a  3.08629218489 % probability
+squeezenet 5th infers that the image contains  screwdriver with a  2.71667037159 % probability
+squeezenet 1st infers that the image contains  syringe with a  9.70112457871 % probability
+File45 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([574.0, 0.12785540521144867], dtype=object), array([855.0, 0.044193945825099945], dtype=object), array([746.0, 0.02942211553454399], dtype=object), array([783.0, 0.02922089211642742], dtype=object), array([78.0, 0.02707967907190323], dtype=object)]
+squeezenet 5th infers that the image contains  tick with a  2.70796790719 % probability
+squeezenet 1st infers that the image contains  golf ball with a  12.7855405211 % probability
+squeezenet 3rd infers that the image contains  puck, hockey puck with a  2.94221155345 % probability
+squeezenet 4th infers that the image contains  screw with a  2.92208921164 % probability
+squeezenet 2nd infers that the image contains  thimble with a  4.41939458251 % probability
+File46 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([713.0, 0.17048990726470947], dtype=object), array([742.0, 0.0313752256333828], dtype=object), array([731.0, 0.028546417132019997], dtype=object), array([807.0, 0.02059626393020153], dtype=object), array([905.0, 0.020461490377783775], dtype=object)]
+squeezenet 1st infers that the image contains  photocopier with a  17.0489907265 % probability
+squeezenet 3rd infers that the image contains  plunger, plumber's helper with a  2.8546417132 % probability
+squeezenet 2nd infers that the image contains  printer with a  3.13752256334 % probability
+squeezenet 4th infers that the image contains  solar dish, solar collector, solar furnace with a  2.05962639302 % probability
+squeezenet 5th infers that the image contains  window shade with a  2.04614903778 % probability
+File47 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([794.0, 0.07018624991178513], dtype=object), array([743.0, 0.061965323984622955], dtype=object), array([706.0, 0.02190529741346836], dtype=object), array([971.0, 0.021902622655034065], dtype=object), array([424.0, 0.02059357427060604], dtype=object)]
+squeezenet 5th infers that the image contains  barbershop with a  2.05935742706 % probability
+squeezenet 3rd infers that the image contains  patio, terrace with a  2.19052974135 % probability
+squeezenet 2nd infers that the image contains  prison, prison house with a  6.19653239846 % probability
+squeezenet 1st infers that the image contains  shower curtain with a  7.01862499118 % probability
+squeezenet 4th infers that the image contains  bubble with a  2.1902622655 % probability
+File48 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([718.0, 0.15817219018936157], dtype=object), array([716.0, 0.06946636736392975], dtype=object), array([421.0, 0.057072851806879044], dtype=object), array([807.0, 0.05294988676905632], dtype=object), array([912.0, 0.04462745040655136], dtype=object)]
+squeezenet 3rd infers that the image contains  bannister, banister, balustrade, balusters, handrail with a  5.70728518069 % probability
+squeezenet 2nd infers that the image contains  picket fence, paling with a  6.94663673639 % probability
+squeezenet 1st infers that the image contains  pier with a  15.8172190189 % probability
+squeezenet 4th infers that the image contains  solar dish, solar collector, solar furnace with a  5.29498867691 % probability
+squeezenet 5th infers that the image contains  worm fence, snake fence, snake-rail fence, Virginia fence with a  4.46274504066 % probability
+File49 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([780.0, 0.08144690841436386], dtype=object), array([517.0, 0.04669833183288574], dtype=object), array([733.0, 0.04430311918258667], dtype=object), array([716.0, 0.04258948192000389], dtype=object), array([657.0, 0.03302394226193428], dtype=object)]
+squeezenet 2nd infers that the image contains  crane with a  4.66983318329 % probability
+squeezenet 5th infers that the image contains  missile with a  3.30239422619 % probability
+squeezenet 4th infers that the image contains  picket fence, paling with a  4.258948192 % probability
+squeezenet 3rd infers that the image contains  pole with a  4.43031191826 % probability
+squeezenet 1st infers that the image contains  schooner with a  8.14469084144 % probability
+File50 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([733.0, 0.17855717241764069], dtype=object), array([517.0, 0.07771018147468567], dtype=object), array([780.0, 0.07135488837957382], dtype=object), array([438.0, 0.04859696328639984], dtype=object), array([839.0, 0.03820032998919487], dtype=object)]
+squeezenet 4th infers that the image contains  beaker with a  4.85969632864 % probability
+squeezenet 2nd infers that the image contains  crane with a  7.77101814747 % probability
+squeezenet 1st infers that the image contains  pole with a  17.8557172418 % probability
+squeezenet 3rd infers that the image contains  schooner with a  7.13548883796 % probability
+squeezenet 5th infers that the image contains  suspension bridge with a  3.82003299892 % probability
+File51 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([111.0, 0.04763206094503403], dtype=object), array([978.0, 0.04493009299039841], dtype=object), array([733.0, 0.03051852248609066], dtype=object), array([815.0, 0.024193860590457916], dtype=object), array([549.0, 0.02376268059015274], dtype=object)]
+squeezenet 1st infers that the image contains  nematode, nematode worm, roundworm with a  4.7632060945 % probability
+squeezenet 5th infers that the image contains  envelope with a  2.37626805902 % probability
+squeezenet 3rd infers that the image contains  pole with a  3.05185224861 % probability
+squeezenet 4th infers that the image contains  spider web, spider's web with a  2.41938605905 % probability
+squeezenet 2nd infers that the image contains  seashore, coast, seacoast, sea-coast with a  4.49300929904 % probability
+File52 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([668.0, 0.11274860054254532], dtype=object), array([497.0, 0.07662507891654968], dtype=object), array([562.0, 0.06492099910974503], dtype=object), array([698.0, 0.05578289180994034], dtype=object), array([663.0, 0.05252080038189888], dtype=object)]
+squeezenet 2nd infers that the image contains  church, church building with a  7.66250789165 % probability
+squeezenet 3rd infers that the image contains  fountain with a  6.49209991097 % probability
+squeezenet 5th infers that the image contains  monastery with a  5.25208003819 % probability
+squeezenet 1st infers that the image contains  mosque with a  11.2748600543 % probability
+squeezenet 4th infers that the image contains  palace with a  5.57828918099 % probability
+File53 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([660.0, 0.29567983746528625], dtype=object), array([675.0, 0.02912358194589615], dtype=object), array([525.0, 0.025076091289520264], dtype=object), array([757.0, 0.020148800686001778], dtype=object), array([743.0, 0.01620234176516533], dtype=object)]
+squeezenet 3rd infers that the image contains  dam, dike, dyke with a  2.50760912895 % probability
+squeezenet 1st infers that the image contains  mobile home, manufactured home with a  29.5679837465 % probability
+squeezenet 2nd infers that the image contains  moving van with a  2.91235819459 % probability
+squeezenet 5th infers that the image contains  prison, prison house with a  1.62023417652 % probability
+squeezenet 4th infers that the image contains  recreational vehicle, RV, R.V. with a  2.0148800686 % probability
+File54 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([780.0, 0.07175225019454956], dtype=object), array([716.0, 0.05511197820305824], dtype=object), array([884.0, 0.023528438061475754], dtype=object), array([663.0, 0.023202266544103622], dtype=object), array([812.0, 0.01857142709195614], dtype=object)]
+squeezenet 4th infers that the image contains  monastery with a  2.32022665441 % probability
+squeezenet 2nd infers that the image contains  picket fence, paling with a  5.51119782031 % probability
+squeezenet 1st infers that the image contains  schooner with a  7.17522501945 % probability
+squeezenet 5th infers that the image contains  space shuttle with a  1.8571427092 % probability
+squeezenet 3rd infers that the image contains  vault with a  2.35284380615 % probability
+File55 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([733.0, 0.07740846276283264], dtype=object), array([843.0, 0.06095807999372482], dtype=object), array([540.0, 0.0366402193903923], dtype=object), array([517.0, 0.02719317376613617], dtype=object), array([421.0, 0.01800977624952793], dtype=object)]
+squeezenet 5th infers that the image contains  bannister, banister, balustrade, balusters, handrail with a  1.80097762495 % probability
+squeezenet 4th infers that the image contains  crane with a  2.71931737661 % probability
+squeezenet 3rd infers that the image contains  drilling platform, offshore rig with a  3.66402193904 % probability
+squeezenet 1st infers that the image contains  pole with a  7.74084627628 % probability
+squeezenet 2nd infers that the image contains  swing with a  6.09580799937 % probability
+File56 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([405.0, 0.05938204005360603], dtype=object), array([892.0, 0.05292660742998123], dtype=object), array([424.0, 0.03432324156165123], dtype=object), array([409.0, 0.03191917762160301], dtype=object), array([657.0, 0.02937564253807068], dtype=object)]
+squeezenet 1st infers that the image contains  airship, dirigible with a  5.93820400536 % probability
+squeezenet 4th infers that the image contains  analog clock with a  3.19191776216 % probability
+squeezenet 3rd infers that the image contains  barbershop with a  3.43232415617 % probability
+squeezenet 5th infers that the image contains  missile with a  2.93756425381 % probability
+squeezenet 2nd infers that the image contains  wall clock with a  5.292660743 % probability
+File57 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([845.0, 0.06852278113365173], dtype=object), array([716.0, 0.03288565203547478], dtype=object), array([922.0, 0.02954602614045143], dtype=object), array([892.0, 0.028092823922634125], dtype=object), array([517.0, 0.025418242439627647], dtype=object)]
+squeezenet 5th infers that the image contains  crane with a  2.54182424396 % probability
+squeezenet 2nd infers that the image contains  picket fence, paling with a  3.28856520355 % probability
+squeezenet 1st infers that the image contains  syringe with a  6.85227811337 % probability
+squeezenet 4th infers that the image contains  wall clock with a  2.80928239226 % probability
+squeezenet 3rd infers that the image contains  menu with a  2.95460261405 % probability
+File58 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([517.0, 0.1941414475440979], dtype=object), array([716.0, 0.1149229183793068], dtype=object), array([920.0, 0.053420066833496094], dtype=object), array([733.0, 0.041820429265499115], dtype=object), array([405.0, 0.03672834858298302], dtype=object)]
+squeezenet 5th infers that the image contains  airship, dirigible with a  3.6728348583 % probability
+squeezenet 1st infers that the image contains  crane with a  19.4141447544 % probability
+squeezenet 2nd infers that the image contains  picket fence, paling with a  11.4922918379 % probability
+squeezenet 4th infers that the image contains  pole with a  4.18204292655 % probability
+squeezenet 3rd infers that the image contains  traffic light, traffic signal, stoplight with a  5.34200668335 % probability
+File59 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([892.0, 0.07819515466690063], dtype=object), array([438.0, 0.07434095442295074], dtype=object), array([663.0, 0.04969969019293785], dtype=object), array([845.0, 0.03680586442351341], dtype=object), array([743.0, 0.03675360232591629], dtype=object)]
+squeezenet 2nd infers that the image contains  beaker with a  7.4340954423 % probability
+squeezenet 3rd infers that the image contains  monastery with a  4.96996901929 % probability
+squeezenet 5th infers that the image contains  prison, prison house with a  3.67536023259 % probability
+squeezenet 4th infers that the image contains  syringe with a  3.68058644235 % probability
+squeezenet 1st infers that the image contains  wall clock with a  7.81951546669 % probability
+File60 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([755.0, 0.06253881752490997], dtype=object), array([919.0, 0.06079810485243797], dtype=object), array([421.0, 0.04174940288066864], dtype=object), array([892.0, 0.04163214936852455], dtype=object), array([769.0, 0.037895120680332184], dtype=object)]
+squeezenet 3rd infers that the image contains  bannister, banister, balustrade, balusters, handrail with a  4.17494028807 % probability
+squeezenet 1st infers that the image contains  radio telescope, radio reflector with a  6.25388175249 % probability
+squeezenet 5th infers that the image contains  rule, ruler with a  3.78951206803 % probability
+squeezenet 4th infers that the image contains  wall clock with a  4.16321493685 % probability
+squeezenet 2nd infers that the image contains  street sign with a  6.07981048524 % probability
+File61 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([733.0, 0.06688755750656128], dtype=object), array([442.0, 0.06165597587823868], dtype=object), array([657.0, 0.05061033368110657], dtype=object), array([438.0, 0.04045260325074196], dtype=object), array([702.0, 0.03191844001412392], dtype=object)]
+squeezenet 4th infers that the image contains  beaker with a  4.04526032507 % probability
+squeezenet 2nd infers that the image contains  bell cote, bell cot with a  6.16559758782 % probability
+squeezenet 3rd infers that the image contains  missile with a  5.06103336811 % probability
+squeezenet 5th infers that the image contains  parallel bars, bars with a  3.19184400141 % probability
+squeezenet 1st infers that the image contains  pole with a  6.68875575066 % probability
+File62 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([807.0, 0.03407151624560356], dtype=object), array([421.0, 0.031132303178310394], dtype=object), array([716.0, 0.029201248660683632], dtype=object), array([905.0, 0.026746481657028198], dtype=object), array([733.0, 0.02384284697473049], dtype=object)]
+squeezenet 2nd infers that the image contains  bannister, banister, balustrade, balusters, handrail with a  3.11323031783 % probability
+squeezenet 3rd infers that the image contains  picket fence, paling with a  2.92012486607 % probability
+squeezenet 5th infers that the image contains  pole with a  2.38428469747 % probability
+squeezenet 1st infers that the image contains  solar dish, solar collector, solar furnace with a  3.40715162456 % probability
+squeezenet 4th infers that the image contains  window shade with a  2.6746481657 % probability
+File63 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([702.0, 0.2526816427707672], dtype=object), array([733.0, 0.09439025819301605], dtype=object), array([421.0, 0.056877803057432175], dtype=object), array([743.0, 0.05492367222905159], dtype=object), array([718.0, 0.039240989834070206], dtype=object)]
+squeezenet 3rd infers that the image contains  bannister, banister, balustrade, balusters, handrail with a  5.68778030574 % probability
+squeezenet 1st infers that the image contains  parallel bars, bars with a  25.2681642771 % probability
+squeezenet 5th infers that the image contains  pier with a  3.92409898341 % probability
+squeezenet 2nd infers that the image contains  pole with a  9.4390258193 % probability
+squeezenet 4th infers that the image contains  prison, prison house with a  5.49236722291 % probability
+File64 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([519.0, 0.1166531965136528], dtype=object), array([484.0, 0.09774962812662125], dtype=object), array([807.0, 0.06635672599077225], dtype=object), array([675.0, 0.047191835939884186], dtype=object), array([919.0, 0.04609173536300659], dtype=object)]
+squeezenet 2nd infers that the image contains  catamaran with a  9.77496281266 % probability
+squeezenet 1st infers that the image contains  crate with a  11.6653196514 % probability
+squeezenet 4th infers that the image contains  moving van with a  4.71918359399 % probability
+squeezenet 3rd infers that the image contains  solar dish, solar collector, solar furnace with a  6.63567259908 % probability
+squeezenet 5th infers that the image contains  street sign with a  4.6091735363 % probability
+File65 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([517.0, 0.07558438926935196], dtype=object), array([660.0, 0.06099223345518112], dtype=object), array([919.0, 0.04016462340950966], dtype=object), array([628.0, 0.037189025431871414], dtype=object), array([920.0, 0.03550856187939644], dtype=object)]
+squeezenet 1st infers that the image contains  crane with a  7.55843892694 % probability
+squeezenet 4th infers that the image contains  liner, ocean liner with a  3.71890254319 % probability
+squeezenet 2nd infers that the image contains  mobile home, manufactured home with a  6.09922334552 % probability
+squeezenet 3rd infers that the image contains  street sign with a  4.01646234095 % probability
+squeezenet 5th infers that the image contains  traffic light, traffic signal, stoplight with a  3.55085618794 % probability
+File66 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([733.0, 0.04093988612294197], dtype=object), array([892.0, 0.030702995136380196], dtype=object), array([660.0, 0.027995575219392776], dtype=object), array([438.0, 0.026749765500426292], dtype=object), array([557.0, 0.022258205339312553], dtype=object)]
+squeezenet 4th infers that the image contains  beaker with a  2.67497655004 % probability
+squeezenet 5th infers that the image contains  flagpole, flagstaff with a  2.22582053393 % probability
+squeezenet 3rd infers that the image contains  mobile home, manufactured home with a  2.79955752194 % probability
+squeezenet 1st infers that the image contains  pole with a  4.09398861229 % probability
+squeezenet 2nd infers that the image contains  wall clock with a  3.07029951364 % probability
+File67 Inference Start
+Required modules imported.
+Config set!
+Functions set.
+mean was set to:  128
+INIT_NET =  /home/hiroki11x/dl/models/squeezenet/init_net.pb
+PREDICT_NET =  /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+Found  /home/hiroki11x/dl/models/squeezenet/init_net.pb ...Now looking for /home/hiroki11x/dl/models/squeezenet/predict_net.pb
+All needed files found! Loading the model in the next block.
+Original image shape:(240, 320, 3) and remember it should be in H, W, C!
+Model's input shape is 227x227
+Orginal aspect ratio: 1.33333333333
+New image shape:(227, 302, 3) in HWC
+After crop:  (227, 227, 3)
+NCHW:  (1, 3, 227, 227)
+results shape:  (1, 1, 1000, 1, 1)
+Raw top 5 results: [array([409.0, 0.056826092302799225], dtype=object), array([421.0, 0.05104537308216095], dtype=object), array([892.0, 0.03744969889521599], dtype=object), array([623.0, 0.028032269328832626], dtype=object), array([583.0, 0.02181101404130459], dtype=object)]
+squeezenet 1st infers that the image contains  analog clock with a  5.68260923028 % probability
+squeezenet 2nd infers that the image contains  bannister, banister, balustrade, balusters, handrail with a  5.10453730822 % probability
+squeezenet 5th infers that the image contains  guillotine with a  2.18110140413 % probability
+squeezenet 4th infers that the image contains  letter opener, paper knife, paperknife with a  2.80322693288 % probability
+squeezenet 3rd infers that the image contains  wall clock with a  3.74496988952 % probability
