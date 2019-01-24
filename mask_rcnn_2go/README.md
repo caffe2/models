@@ -10,7 +10,7 @@ Input:
   * data (1, 3, H, W), min(H, W) = 320, BGR in range [0, 255]
   * im_info (1, 3) [scaled_height, scaled_width, scale]
 
-Proposals (pre nms, post nms): 3000/1000
+Proposals (pre nms, post nms): 3000/100
 
 Accuracy(mAP[IoU=0.50:0.95]):
    Model  | bbox | segmentation
