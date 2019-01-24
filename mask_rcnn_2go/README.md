@@ -2,7 +2,11 @@
 
 Owner: Peizhao Zhang (stzpz@fb.com)
 
-Model: MaskRCNN2GO (bbox + segmentation) float32 and int8
+## Model
+* MaskRCNN2GO (bbox + segmentation) with 81 classes
+* float32 and int8 models
+* Trained on COCO 2014 dataset
+* int8 model fine-tuned with fake-quantization
 
 ## Performance 
   * Evaluation dataset: COCO 2014 minival
@@ -14,10 +18,6 @@ Model: MaskRCNN2GO (bbox + segmentation) float32 and int8
   float32 | 25.1 |     21.6
   int8    | 24.8 |     21.7
 
-## Training
-* fp32 model trained on COCO 2014 dataset
-* int8 model fine-tuned with fake-quantization
-
 ## Input
   * data (1, 3, H, W), min(H, W) = 320, BGR in range [0, 255]
   * im_info (1, 3) [scaled_height, scaled_width, scale]
@@ -27,7 +27,9 @@ Model: MaskRCNN2GO (bbox + segmentation) float32 and int8
 * Update path in run_eval.sh
 * Run run_eval.sh
 
-Model source: f93520960, f96110081:934610037
+## Model source
+* f93520960
+* f96110081:934610037
 
 ## Acknowledgement
 
