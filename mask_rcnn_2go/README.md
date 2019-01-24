@@ -4,9 +4,8 @@ Owner: Peizhao Zhang (stzpz@fb.com)
 
 Model: MaskRCNN2GO (bbox + segmentation) float32 and int8
 
-
-## Accuracy 
-  * Evaluated on COCO 2014 minival
+## Performance 
+  * Evaluation dataset: COCO 2014 minival
   * Metric: mAP[IoU=0.50:0.95]
   * Proposals: 3000/100 (pre/post nms) 
 
@@ -16,7 +15,7 @@ Model: MaskRCNN2GO (bbox + segmentation) float32 and int8
   int8    | 24.8 |     21.7
 
 ## Training
-* fp32 model trained with COCO 2014 dataset
+* fp32 model trained on COCO 2014 dataset
 * int8 model fine-tuned with fake-quantization
 
 ## Input
