@@ -1,4 +1,4 @@
-# MaskRCNN2GO
+# MaskRCNN2GO Model
 
 Owner: Peizhao Zhang (stzpz@fb.com)
 
@@ -15,8 +15,8 @@ Proposals (pre nms, post nms): 3000/100
 Accuracy(mAP[IoU=0.50:0.95]):
    Model  | bbox | segmentation
   ------- | ---- | ------------
-  float32 |	25.1 | 21.6
-	int8    | 24.8 | 21.7
+  float32 | 25.1 | 21.6
+  int8    | 24.8 | 21.7
 
 Evaluation:
 * Download COCO 2014 minival dataset
